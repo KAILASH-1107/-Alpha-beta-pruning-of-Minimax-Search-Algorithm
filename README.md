@@ -1,5 +1,5 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name: Kailash,V S</h3>
+<h3>Name: Kailash.V</h3>
 <h3>Register Number: 212224240067</h3>
 <H3>Aim:</H3>
 <p>
